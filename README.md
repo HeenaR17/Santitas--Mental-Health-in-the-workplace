@@ -1,4 +1,4 @@
-## This project is based on a 2014 Mental Health Survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. It performs classification for detection and requirement of treatment.
+This project is based on a 2014 Mental Health Survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. It performs classification for detection and requirement of treatment.
 
 ## Some of the inut features include:
 
